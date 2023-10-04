@@ -1,0 +1,8 @@
+# user config file
+config.h
+
+# compilation output files
+st
+st.o
+x.o
+
