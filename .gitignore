@@ -6,3 +6,5 @@ st
 st.o
 x.o
 
+# patches outputs
+*.orig
